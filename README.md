@@ -11,4 +11,3 @@ Activity 2: Using the I2C bus and protocol, a temperature sensor, and the microc
 
 Record a temperature value every second in an array that will contain the last minute of data (older data is replaced by new data once the array is full).
 If the temperature goes above a threshold value of 28 degree Celsius, the sensor will trigger an interrupt which will get the LEDs on the microcontroller to flash an alarm signal, stop the recording, and transmit the last minute of data to your computer by USB serial communication, so that the log can be analysed.
-<img width="1221" height="813" alt="Circuit_diagram drawio" src="https://github.com/user-attachments/assets/08f67acb-8bf7-495e-9858-8de10daae3d0" />
