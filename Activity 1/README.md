@@ -5,4 +5,4 @@ Slightly adapted from the Cambridge coursework, each button has its correspondin
 
 Below is the schematic used for the task:
 
-<img width="1221" height="813" alt="Circuit_diagram drawio" src="https://github.com/user-attachments/assets/c9bc7f12-3142-4a54-ae14-54029d57c332" />
+<img width="1316" height="893" alt="diagram drawio" src="https://github.com/user-attachments/assets/66592bdc-ddfc-403a-8509-4101791bdc81" />
